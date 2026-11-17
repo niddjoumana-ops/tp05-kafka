@@ -1,7 +1,7 @@
 # TP05 — Real-Time Data Streaming and Processing Using Apache Kafka
 
 **Module:** Big Data Analytics — Second-year Master IA & Data Science (2026/2027)
-**Student:** Djoumana
+**Student:** Djoumana Nid 
 
 A simulated smart-campus sensor system: a Python producer publishes temperature/humidity events to Apache Kafka (single broker, KRaft mode, Docker Compose), and a Python consumer reads them in real time and flags temperatures of 35 °C or higher.
 
